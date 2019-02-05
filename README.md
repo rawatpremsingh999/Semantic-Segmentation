@@ -1,4 +1,4 @@
-# Image Segmentation/ Pixel-Wise Classification
+# Semantic Segmentation/ Pixel-Wise Classification
 
 This model uses the [camvid motion-based segmentation and recognition dataset](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) with a per-pixel segmentation of 701 images. The data was acquired from the point of view of a driving vehicle.
 
@@ -71,3 +71,7 @@ The images on the left represent the ground truth labels while the images on the
 
 
 ![](Images/results1.JPG?raw=true)
+
+## Note
+
+The notebook on road segmentation (binary segmentation) is still a work in progress.
