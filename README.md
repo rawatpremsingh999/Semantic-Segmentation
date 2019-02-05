@@ -65,9 +65,9 @@ This particular U-Net uses a pre-trained [ResNet-34](https://arxiv.org/abs/1512.
 
 ## Results
 
-The result was an image segmentation model with an accuracy of 92.4% after going through only 10 epochs.
+The result was an image segmentation model with an accuracy of 92.7%.
 
 The images on the left represent the ground truth labels while the images on the right represent their predictions.
 
 
-![](Images/results1.jpg?raw=true)
+![](Images/results1.JPG?raw=true)
